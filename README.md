@@ -1,5 +1,5 @@
 <div align="center">
-# Secure backup/restore
+  Secure backup/restore
 </div>
 
 # Backup
