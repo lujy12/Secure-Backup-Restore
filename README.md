@@ -1,4 +1,6 @@
-# Secure Backup/Restore
+<div align="center">
+### Secure backup/restore
+</div>
 
 # Backup
 ## Running the backup file:
