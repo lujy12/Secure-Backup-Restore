@@ -12,7 +12,9 @@
 
 ## Restore
 ### Running the restore file:
-#### ./backup.sh <Source> <Destination> <DecryptionKey>
+ ```bash
+./backup.sh <Source> <Destination> <DecryptionKey>
+```
 - **Source** = Path to source directory
 - **Destination** = Path to destination directory
 - **DecriptionKey** = Passphrase for decryption
