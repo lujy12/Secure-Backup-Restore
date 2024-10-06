@@ -3,7 +3,7 @@
 
 ## Backup
 ### Running the backup file:
-#### ./backup.sh <Source> <Destination> <EncryptionKey>
+./backup.sh <Source> <Destination> <EncryptionKey>
 - **Source** = Path to source directory
 - **Destination** = Path to destination directory
 - **EncriptionKey** = Passphrase for encryption
